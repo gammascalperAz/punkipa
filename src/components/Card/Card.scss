@@ -1,0 +1,38 @@
+
+
+.container {  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  // grid-template-rows: 1fr 1fr;
+  // gap: 0px 0px;
+  grid-auto-flow: row;
+
+  
+}
+
+.cardbox {
+ 
+ 
+
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    // height: fit-content;
+    // width: fit-content;  
+
+}
+
+
+
+.cardStyle1 {
+
+// height: 100px;
+width: 100px;
+
+  
+}
+
+
+
+
+
